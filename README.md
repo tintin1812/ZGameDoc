@@ -1,5 +1,6 @@
+# ZGame
 
-# Resource game
+## Resource game
 
 - Story
 
@@ -28,37 +29,37 @@
 	- Item
 	- Dictionary
 
-# Game Mechanics Model
+## Game Mechanics Model
 
-## 1. Map & Interior
+### 1. Map & Interior
 - Terrain, filler, doom, effect cho map city.
 - Exterior
 
-## 2. Script
+### 2. Script
 
-### 2.1 Conversation
+#### 2.1 Conversation
 
-#### 2.1.1 Chat
+##### 2.1.1 Chat
 
-#### 2.1.1 Choice
+##### 2.1.1 Choice
 - List
 - Grid
 - Drag /drop
 
-### 2.1 Character
+#### 2.1 Character
 - Reward items
 - Request move to
 - Request move by
 
-### 2.3 NPC
+#### 2.3 NPC
 - Appear /disappeared
 - Request move to
 - Request move by
 - Follow Character
 
-## 3. Parameter ofcharacter
+### 3. Parameter ofcharacter
 
-## 4. Property (asset) of character:
+### 4. Property (asset) of character:
 - Item
 ```
 Gây ảnh hưởng lên các Parameter character. (Ex: tăng tiền, tăng năng lượng)
@@ -67,32 +68,32 @@ Gây ảnh hưởng lên các Parameter character. (Ex: tăng tiền, tăng năn
 - Costumes
 - Pet
 
-# Mission/ Level Editor
+## Mission/ Level Editor
 
-## 1. Map
+### 1. Map
 - Build map layout cho map city
 - Create Quest ( assign NPC - Script)
 - Create Business ( assign Exterior - Interior - input /output Item)
 
-## 2. Ui-Dialog
+### 2. Ui-Dialog
 - Conversation chat, choice ( group, grid, drag- drop)
 - Shop
 - Gacha
 - Crafting
 - Business
 
-## 3. Minigame
+### 3. Minigame
 - Drag drop game ( using Dictionary + Choise by Drag- drop Item)
 - Food game ( using Conversation Script - Action npc)
 
 
-# Todo
+## Todo
 
-## Art
+### Art
 
-## Design
+### Design
 
-## Programmer
+### Programmer
 -
 - Diễn cảnh nói chuyện giữa NPC & Character ( Bao gồm cắt cảnh, cử chỉ tay chân, mắt, miệng)
 - Diễn cảnh kể chuyện Story
@@ -115,7 +116,7 @@ Gây ảnh hưởng lên các Parameter character. (Ex: tăng tiền, tăng năn
 - Dictionary ( từ điển: từ, định nghĩa, hình ảnh)
 
 
-# Note
+## Note
 
 - Flow Art 3d
 ```

@@ -9,12 +9,24 @@
 	- Character
 	- Npc
 
-* Icon game
-	* Ui
-	Des
-	* Item
-	* Dictionary
+- Art 3d
+	- Static
+		- Filler
+		- Interior
+		- Exterior
+	- Dynamic
+		- Human
+			- Npc
+			- Character
+		- Pet
+		- Filler with animation & effect
+	- High level
+		- Environment
 
+- Icon game
+	- Ui
+	- Item
+	- Dictionary
 
 # Game Mechanics Model
 
@@ -47,12 +59,13 @@
 ## 3. Parameter ofcharacter
 
 ## 4. Property (asset) of character:
-- Item 
+- Item
+```
 Gây ảnh hưởng lên các Parameter character. (Ex: tăng tiền, tăng năng lượng)
+```
 - Business ( sinh ra Property)
 - Costumes
 - Pet
-
 
 # Mission/ Level Editor
 
@@ -75,23 +88,28 @@ Gây ảnh hưởng lên các Parameter character. (Ex: tăng tiền, tăng năn
 
 # Todo
 
+## Art
+
+## Design
+
+## Programmer
+-
 - Diễn cảnh nói chuyện giữa NPC & Character ( Bao gồm cắt cảnh, cử chỉ tay chân, mắt, miệng)
 - Diễn cảnh kể chuyện Story
 - Chuyển cảnh move to Map, Interior
-
+-
 - Action npc - follow nhân vật
 - Action npc - move by
-
+-
 - Choise by Drag- drop Item
 - Choise by Grid
-
+-
 - Thay các từ định danh trong game ( tên Learner, tên NPC, giá tiền)
 - Highlight teaching points (giống như từ điển, câu nào có từ nằm trong từ điển đó thì sẽ đc đánh dấu và click vào sẽ pop up nghĩa lên)
 - Đổi font chữ
-
+-
 - Add pet + ani ingame
-
-Dev Tool:
+-
 - Build Package editor ( 1 Package chứa input /output nhiều Property, sử dụng cho Shop, Gacha, Crafting).
 - Build input /output cho Business ( tài nguyên cần, tài nguyên được sinh ra )
 - Dictionary ( từ điển: từ, định nghĩa, hình ảnh)
@@ -100,7 +118,11 @@ Dev Tool:
 # Note
 
 - Flow Art 3d
+```
 Concept -> dựng xương -> tách khối ( chia patch) -> phủ màu ( texture) -> hiệu ứng ( shader)
+```
 
 - Flow Ui
+```
 Chức năng + icon + hệ màu -> ux -> ui
+```

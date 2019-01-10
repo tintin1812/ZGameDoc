@@ -38,9 +38,9 @@
 
 ### 2.1 Conversation
 
-#### Chat
+#### 2.1.1 Chat
 
-#### Choice
+#### 2.1.1 Choice
 - List
 - Grid
 - Drag /drop

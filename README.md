@@ -9,10 +9,10 @@
 	- Character
 	- Npc
 
-- Icon game
-	- Ui
-	- Item
-	- Dictionary
+* Icon game
+	* Ui
+	* Item
+	* Dictionary
 
 
 # Game Mechanics Model

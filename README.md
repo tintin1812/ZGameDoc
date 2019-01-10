@@ -1,6 +1,7 @@
 # ZGame
 
 ## Resource game
+Là phần input cơ bản của mỗi game
 
 - Story
 
@@ -30,6 +31,7 @@
 	- Dictionary
 
 ## Game Mechanics Model
+Là phần mà kết hợp rời rạc giữa Design Writers và Design Mechanics
 
 ### 1. Map & Interior
 - Terrain, filler, doom, effect cho map city.
@@ -69,6 +71,7 @@ Gây ảnh hưởng lên các Parameter character. (Ex: tăng tiền, tăng năn
 - Pet
 
 ## Mission/ Level Editor
+Kết nối các phần Mechanics Model lại và Art
 
 ### 1. Map
 - Build map layout cho map city
@@ -87,13 +90,13 @@ Gây ảnh hưởng lên các Parameter character. (Ex: tăng tiền, tăng năn
 - Food game ( using Conversation Script - Action npc)
 
 
-## Todo
+## Todo (Short-term)
 
 ### Art
-- Listing
+Update later
 
 ### Design
-- Listing
+Update later
 
 ### Programmer
 -

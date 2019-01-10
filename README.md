@@ -90,8 +90,10 @@ Gây ảnh hưởng lên các Parameter character. (Ex: tăng tiền, tăng năn
 ## Todo
 
 ### Art
+- Listing
 
 ### Design
+- Listing
 
 ### Programmer
 -

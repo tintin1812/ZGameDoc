@@ -95,25 +95,25 @@ Gây ảnh hưởng lên các Parameter character. (Ex: tăng tiền, tăng năn
 
 ### Programmer
 -
-+ Diễn cảnh nói chuyện giữa NPC & Character ( Bao gồm cắt cảnh, cử chỉ tay chân, mắt, miệng)
-+ Diễn cảnh kể chuyện Story
-+ Chuyển cảnh move to Map, Interior
+	+ Diễn cảnh nói chuyện giữa NPC & Character ( Bao gồm cắt cảnh, cử chỉ tay chân, mắt, miệng)
+	+ Diễn cảnh kể chuyện Story
+	+ Chuyển cảnh move to Map, Interior
 -
-+ Action npc - follow nhân vật
-+ Action npc - move by
+	+ Action npc - follow nhân vật
+	+ Action npc - move by
 -
-+ Choise by Drag- drop Item
-+ Choise by Grid
+	+ Choise by Drag- drop Item
+	+ Choise by Grid
 -
-+ Thay các từ định danh trong game ( tên Learner, tên NPC, giá tiền)
-+ Highlight teaching points (giống như từ điển, câu nào có từ nằm trong từ điển đó thì sẽ đc đánh dấu và click vào sẽ pop up nghĩa lên)
-+ Đổi font chữ
+	+ Thay các từ định danh trong game ( tên Learner, tên NPC, giá tiền)
+	+ Highlight teaching points (giống như từ điển, câu nào có từ nằm trong từ điển đó thì sẽ đc đánh dấu và click vào sẽ pop up nghĩa lên)
+	+ Đổi font chữ
 -
-+ Add pet + ani ingame
+	+ Add pet + ani ingame
 -
-+ Build Package editor ( 1 Package chứa input /output nhiều Property, sử dụng cho Shop, Gacha, Crafting).
-+ Build input /output cho Business ( tài nguyên cần, tài nguyên được sinh ra )
-+ Dictionary ( từ điển: từ, định nghĩa, hình ảnh)
+	+ Build Package editor ( 1 Package chứa input /output nhiều Property, sử dụng cho Shop, Gacha, Crafting).
+	+ Build input /output cho Business ( tài nguyên cần, tài nguyên được sinh ra )
+	+ Dictionary ( từ điển: từ, định nghĩa, hình ảnh)
 
 ## Note
 

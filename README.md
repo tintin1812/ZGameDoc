@@ -6,13 +6,13 @@
 - Dialogue Writers
 
 - Concept art
-+ Character
-+ Npc
+	- Character
+	- Npc
 
 - Icon game
-+ Ui
-+ Item
-+ Dictionary
+	- Ui
+	- Item
+	- Dictionary
 
 
 # Game Mechanics Model
@@ -46,7 +46,8 @@
 ## 3. Parameter ofcharacter
 
 ## 4. Property (asset) of character:
-- Item ( gây ảnh hưởng lên các Parameter character. Ex: tăng tiền, tăng năng lượng)
+- Item 
+Gây ảnh hưởng lên các Parameter character. (Ex: tăng tiền, tăng năng lượng)
 - Business ( sinh ra Property)
 - Costumes
 - Pet
@@ -97,8 +98,8 @@ Dev Tool:
 
 # Note
 
-- Flow Art 3d:
+- Flow Art 3d
 Concept -> dựng xương -> tách khối ( chia patch) -> phủ màu ( texture) -> hiệu ứng ( shader)
 
-- Flow Ui:
+- Flow Ui
 Chức năng + icon + hệ màu -> ux -> ui

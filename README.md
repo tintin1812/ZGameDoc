@@ -11,6 +11,7 @@
 
 * Icon game
 	* Ui
+	Des
 	* Item
 	* Dictionary
 
